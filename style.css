@@ -4,6 +4,7 @@
   height: 91.8vh;
   display: flex;
   justify-content: flex-start;
+  background-color: black;
   align-items: center;
   background-size: cover;
   background-position: center;
@@ -66,4 +67,8 @@
   50% {
     border-color: white;
   }
+}
+
+a {
+  text-decoration: none;
 }
