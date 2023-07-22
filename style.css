@@ -9,6 +9,10 @@ a {
   text-decoration: none;
 }
 
+.border-none {
+  border: none;
+}
+
 .bg {
   display: flex;
   justify-content: flex-start;
